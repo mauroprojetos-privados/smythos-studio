@@ -42,7 +42,7 @@ This approach makes AI agent development **accessible to everyone** - from busin
 Get up and running instantly with Docker Compose.
 
 ```bash
-git clone https://github.com/SmythOS/smythos-studio.git
+git clone https://github.com/mauroprojetos-privados/smythos-studio.git
 cd smythos-studio
 cp .env.compose.example .env
 docker compose up -d
@@ -63,7 +63,7 @@ Perfect for development, customization, and contributing to the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/SmythOS/smythos-studio.git
+git clone https://github.com/mauroprojetos-privados/smythos-studio.git
 cd smythos-studio
 
 # Copy environment configuration
@@ -143,17 +143,17 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 **Get Started:**
 
 1. Read our [Contributing Guide](CONTRIBUTING.md)
-2. Check out [open issues](https://github.com/SmythOS/smythos-studio/issues)
+2. Check out [open issues](https://github.com/mauroprojetos-privados/smythos-studio/issues)
 
 ## Contributors
 
-<a href="https://github.com/SmythOS/smythos-studio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SmythOS/smythos-studio" />
+<a href="https://github.com/mauroprojetos-privados/smythos-studio/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mauroprojetos-privados/smythos-studio" />
 </a>
 
 ## Community & Support
 
-- **🐛 Issues**: [Report bugs](https://github.com/SmythOS/smythos-studio/issues) and request features
+- **🐛 Issues**: [Report bugs](https://github.com/mauroprojetos-privados/smythos-studio/issues) and request features
 - **📧 Email**: Contact us at support@smythos.com for enterprise inquiries
 - **🌐 Website**: Visit [SmythOS.com](https://smythos.com) for more information
 
@@ -163,7 +163,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Ready to build your first AI agent?**
 
-🚀 [Get Started Now](#quick-start) | 🌟 [Star this repo](https://github.com/SmythOS/smythos-studio)
+🚀 [Get Started Now](#quick-start) | 🌟 [Star this repo](https://github.com/mauroprojetos-privados/smythos-studio)
 
 ---
 

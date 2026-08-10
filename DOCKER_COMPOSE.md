@@ -46,7 +46,7 @@ The docker compose setup provides a ready environment with all necessary service
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SmythOS/smythos-studio.git
+git clone https://github.com/mauroprojetos-privados/smythos-studio.git
 cd smythos-studio
 ```
 

@@ -92,7 +92,7 @@ Install the correct pnpm version using `corepack prepare pnpm@10.12.2 --activate
 
 4. Add the original repository as upstream:
    ```bash
-   git remote add upstream https://github.com/SmythOS/smythos-studio.git
+   git remote add upstream https://github.com/mauroprojetos-privados/smythos-studio.git
    ```
 
 5. **Set up MySQL Database** (Required):
